@@ -176,7 +176,6 @@ button,
 html input[type=button],
 input[type=reset],
 input[type=submit] {
-  -webkit-appearance: button;
   cursor: pointer;
 }
 
@@ -207,7 +206,6 @@ input[type=number]::-webkit-outer-spin-button {
 }
 
 input[type=search] {
-  -webkit-appearance: textfield;
   box-sizing: content-box;
 }
 
