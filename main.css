@@ -1037,6 +1037,9 @@ body {
   }
 }
 @media (max-width: 600px) {
+  .about{
+    background: url(./assets/img/khusleec.png);
+  }
   .about--banner {
     height: auto;
   }
